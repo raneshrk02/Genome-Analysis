@@ -1,4 +1,4 @@
-# 📚 Genome Analysis: Genomic-Aware AI for Precision Medicine
+# Genome Analysis: Genomic-Aware AI for Precision Medicine
 
 This project introduces a cutting-edge AI/ML framework that combines genomic data with molecular structure analysis to provide precise, personalized drug compatibility insights. It bridges mRNA sequence data with SMILES molecular representations, offering a novel approach to pharmaceutical analytics.
 
